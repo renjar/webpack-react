@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    font-size: 34px;
+    color: orangered;
+    font-weight: 600;
+    margin: 15% 0 0;
+}
+
+.sub_title {
+    text-align: center;
+    color: #888;
+    font-size: 24px;
+}

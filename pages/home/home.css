@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #FBF9FE;
+    overflow-x: hidden;
+}
+
+:global .container {
+    height: 100%;
+    overflow: hidden;
+}
+
+:global .page {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #FBF9FE;
+}
+
+.hd {
+    padding: 2em 0;
+}
+.title {
+    text-align: center;
+    font-size: 34px;
+    color: #3CC51F;
+    font-weight: 400;
+    margin: 0 15%;
+}
+.sub_title {
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+}
+.code {
+    padding: 15px;
+    background-color: #eee;
+}
