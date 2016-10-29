@@ -1,4 +1,15 @@
-/node_modules
+# src
+# 递归忽略src文件夹和src文件
+#
+# src/
+# 递归忽略src问价夹
+#
+# /src
+# 忽略根目录下src文件夹和src文件
+# /src/
+# 忽略根目录下src文件夹
+
+node_modules
 /dist
 /build
 npm-debug.log
