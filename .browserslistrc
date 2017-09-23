@@ -1,0 +1,9 @@
+[production]
+last 3 version
+
+# mobile
+iOS >= 7
+Android >= 4
+
+[development]
+last 1 version
